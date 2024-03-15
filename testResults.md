@@ -4,7 +4,7 @@ This document shows the test results for a few different functions.
 
 ## Hardware Running This Test
 
-The hardware that these tests are running is a HP-Z240 workstation.
+The hardware that these tests are running on is a HP-Z240 workstation.
 Here are the specs of the HP-Z240:
 - RAM > 8GB DDR4.
 - CPU > Intel Xeon E-1240 v5 @ 3.5GHz.
